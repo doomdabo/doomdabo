@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomdabo)](https://github.com/doomdabo/github-readme-stats)
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
