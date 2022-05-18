@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align=center>
+  ### Hi there 👋
 
 <!--
 **doomdabo/doomdabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +17,12 @@ Here are some ideas to get you started:
 
 
 -->
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=doomdabo&fontSize=90)
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomdabo&show_icons=true&theme=radical)
+
+
+
+  
+  </div>
