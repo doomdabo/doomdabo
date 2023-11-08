@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray)](https://moon-svg.minung.dev)
     <br>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doomdabo)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doomdabo&show_icons=true&theme=radical)
 
